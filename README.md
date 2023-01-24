@@ -65,4 +65,3 @@ I begin to add some commentary in every files. But, delta_elo doesnt want to wor
 #Miscellaneous
 The drive's link (not used anymore): 
 Main folder: https://drive.google.com/drive/folders/19B8pLM-jO4F6YvlrZGP8S02PGCI6LEDo?usp=sharing
-Backup: https://drive.google.com/drive/folders/1tmivjqzmI7oCj2nKuaraAL7uAQStuQlC?usp=sharing
